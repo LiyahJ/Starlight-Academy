@@ -1,0 +1,46 @@
+
+h1,h2,h3,h4 
+{
+    color:#6b066e;
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p
+{
+    color:#4c034e;
+    font-size: 35px;
+}
+body
+{
+    text-align: center;
+}
+li
+{
+    text-align: center;
+    font-size: 40px;
+}
+button
+{
+    font-size: 34px ;
+    border: 2px soild;
+    border-color: #7c08f0;
+    color:#E829EE
+}
+a
+{
+    color:rgb(94, 6, 82);
+}
+ul
+{
+    color: #4d044e;
+}
+img
+{
+    border: 4px solid;
+    border-color:#700872;
+}
+div
+{
+    border: 3px solid;
+    border-color:#4d044e;
+}
